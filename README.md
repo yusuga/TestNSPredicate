@@ -1,7 +1,6 @@
 # TestNSPredicate
 
-[NSPredicate 全構文解説](http://qiita.com/yusuga_/items/8fd531ebd8f5e72bb97b)を書いた時のコードです。
-XCTestに書いてあります。
+[NSPredicate 全構文解説](http://qiita.com/yusuga_/items/8fd531ebd8f5e72bb97b)のサンプルコードです。
 
 ##License
 
